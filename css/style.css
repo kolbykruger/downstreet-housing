@@ -108,7 +108,7 @@ button.button, input[type="submit"].button {cursor: pointer; font-family: inheri
 .nav .item a{display: block; color: #171313; padding: 1em; text-decoration: none; font-weight: 400; font-size: 1.6rem; transition: 150ms ease;}
 .nav .item a:hover, .nav .item a:focus{color: #fff;}
 .nav .item i{font-size: 1.2rem; cursor: pointer; margin: 0 0 0 6px; display: none;}
-.nav .item:last-of-type i{font-size: 1.2rem; cursor: pointer; margin: 0 0 0 6px; display: block;}
+.nav .item:last-of-type i{font-size: 1.6rem; cursor: pointer; color: #171313; margin: 0; display: block;}
 .nav .item.open{background: rgba(255,255,255,.2);color: #fff;}
 .nav .item.open a{color: #fff;}
 .nav .item .drop_menu .item{display: block;}
