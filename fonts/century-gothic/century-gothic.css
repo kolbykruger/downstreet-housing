@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Century Gothic";
+    src: url("CenturyGothic.woff2") format("woff2"),
+    url("CenturyGothic.woff") format("woff"),
+    url("CenturyGothic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Century Gothic";
+    src: url("CenturyGothicBold.woff2") format("woff2"),
+    url("CenturyGothicBold.woff") format("woff"),
+    url("CenturyGothicBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
